@@ -1,6 +1,6 @@
 *COMP120 – Software Engineering Fundamentals*
 
-# Term Project Guidelines (Due 12****th **** week)
+# Term Project Guidelines (Due 12<sup>th</sup> week)
 
 Week 12 Lab class is the due for Group presentation which is 15% worth of your final mark.
 
