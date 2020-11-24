@@ -1,15 +1,15 @@
 *COMP120 – Software Engineering Fundamentals*
 
-**Term Project Guidelines (Due 12****th **** week)**
+# Term Project Guidelines (Due 12****th **** week)
 
 Week 12 Lab class is the due for Group presentation which is 15% worth of your final mark.
 
-**Requirement**
+## Requirement
 1. Group size: 3 members in a team
 2. Topics - Latest Technology
 3. Submission: Word document
 
-Checklist
+## Checklist
 - [] Select a topic for your group project (eg: Emerging Technology)
 - [] Each group will make an in-class presentation of their group work during scheduled lab periods in week 12
 - [] Include SCRUM Team meeting minutes
@@ -18,7 +18,7 @@ Checklist
 - [] Include Team members name in footer in all the slides
 - [] Document your work in the word document
 
-Criteria:
+## Criteria
 This presentation is 15% worth of your final mark.
   1. 5% - Presentation Content
   2. 5% - use of Team Collaboration software
