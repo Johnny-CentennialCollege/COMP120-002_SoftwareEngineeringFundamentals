@@ -4,7 +4,6 @@ This repository was created for the agile group project assigned by Prof. Viji a
 
 **Group members** are: 
 
-,  and Zhiyang Song.
 | Full Name | Student Number |
 |-----------|----------------|
 | Sepideh Akbari |           |
